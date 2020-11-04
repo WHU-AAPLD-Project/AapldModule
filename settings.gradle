@@ -1,0 +1,2 @@
+rootProject.name='AapldModule'
+include ':app'
