@@ -1,0 +1,2 @@
+# AapldModule
+AapldDroid项目中的Xposed模块，主要功能为Hook到隐私泄露敏感API并生成日志。
